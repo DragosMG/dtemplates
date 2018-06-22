@@ -1,0 +1,14 @@
+---
+title: "Basic Notes"
+author: "Drago&#x0219; Moldovan-Gr&#252;nfeld"
+date: "22/06/2018"
+output: 
+  html_document: 
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
