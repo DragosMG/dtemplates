@@ -1,12 +1,13 @@
 ---
 title: "Basic Notes"
 author: "Drago&#x0219; Moldovan-Gr&#252;nfeld"
-date: "22/06/2018"
+date: "`r format(Sys.Date(), '%d %B, %Y')`"
 output: 
   html_document: 
     toc: true
     toc_depth: 3
     toc_float: true
+    number_sections: true
 ---
 
 ```{r setup, include=FALSE}
